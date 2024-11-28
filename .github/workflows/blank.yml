@@ -26,4 +26,4 @@ jobs:
 
     # Step 3: Run the JAR file
     - name: Run ci-cd-check.jar
-      run: java -jar path/to/ci-cd-check.jar
+      run: java -jar ci-cd-check.jar
